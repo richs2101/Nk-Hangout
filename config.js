@@ -17,10 +17,10 @@ module.exports = {
   errorLog: "", 
   nodes: [
      {
-      name: "Dj Lara",
+      name: "NK Hangout Music",
       password: "foxlaneacademy",
-      host: "194.58.66.44",
-      port:  6886,
+      host: "51.81.57.217",
+      port:  21833,
       secure: false
     }
   ]
