@@ -17,7 +17,7 @@ module.exports = {
   errorLog: "", 
   nodes: [
      {
-      name: "Dj Lara",
+      name: "NK Hangout Music",
       password: "foxlaneacademy",
       host: "51.81.57.217",
       port:  21833,
