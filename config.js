@@ -17,10 +17,10 @@ module.exports = {
   errorLog: "", 
   nodes: [
      {
-      name: "NK Hangout Music",
+      name: "Dj Lara",
       password: "foxlaneacademy",
-      host: "de3.bot-hosting.net",
-      port: 20338,
+      host: "51.81.57.217",
+      port:  21833,
       secure: false
     }
   ]
