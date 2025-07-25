@@ -18,7 +18,7 @@ module.exports = {
   nodes: [
      {
       name: "NK Hangout Music",
-      password: "https://dsc.gg/ajidevserver",
+      password: "foxlaneacademy",
       host: "194.58.66.44",
       port: 6886,
       secure: false
